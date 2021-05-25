@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myazbek
-- 👀 I’m interested in data analysis using high level programming languages such as Python, R, and database management with SQL! Additionally, I have been messing around with GIS software such as ArcGIS and GRASS GIS.
-- 🌱 I’m currently learning Python. 
-- 💞️ I’m looking to collaborate on anything and everything! 
+- 👀 I’m interested in data analysis using high level programming languages such as Python, R, and database management with SQL! Additionally, I have been messing around with GIS software such as ArcGIS and QGIS.
+- 🌱 I’m currently learning Python and SQL. 
+- 💞️ I’m looking to collaborate on any BioPython programs or really anything! 
 - 📫 How to reach me: myazbek@nevada.unr.edu is my current email.
 
 <!---
