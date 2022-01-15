@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, SQL, and R. 
 - 💞️ I’m looking to collaborate on any BioPython programs or really anything! 
 - ✨ As of Fall 2021 I am a Master's of Data Science student. I hope to graduate by Spring 2023!
-- 📫 How to reach me: myazbek@nevada.unr.edu is my current email.
+- 📫 How to reach me: myayazbek@gmail.com is my current email.
 
 <!---
 myazbek/myazbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
